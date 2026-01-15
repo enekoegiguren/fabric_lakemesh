@@ -14,14 +14,14 @@
 
 ## 📋 Table of Contents
 
-- [Example Architecture](#example-architecture)
-- [Key Features](#key-features)
-- [Prerequisites](#prerequisites)
-- [Configuration](#configuration)
-- [Usage Scenarios](#usage-scenarios)
-- [Best Practices](#best-practices)
-- [Troubleshooting](#troubleshooting)
-- [Support](#support)
+- [Example Architecture]¡
+- [Key Features]
+- [Prerequisites]
+- [Configuration]
+- [Usage Scenarios]
+- [Best Practices]
+- [Troubleshooting]
+- [Support]
 
 ## 🏗️ Example Architecture
 
