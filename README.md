@@ -11,9 +11,6 @@
 
 ---
 
-# Consolidated Lakehouse Manager
-
-A Python-based tool for Microsoft Fabric that creates and maintains a unified view of multiple lakehouses using OneLake shortcuts. Organize your medallion architecture (Bronze/Silver/Gold) or any multi-lakehouse setup into a single, easy-to-access consolidated lakehouse.
 
 ## 📋 Table of Contents
 
